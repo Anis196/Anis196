@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-
+- 🎓 Currently in Third year B.Tech Computer Engineering. Pursuing from JSPM's Rajarshi Shahu College of Engineering, Pune.
 - 🔭 I’m currently working on **cutting-edge backend & full-stack projects**
 - 🌱 I’m constantly learning **new frameworks, system design, and cloud-native tools**
 - 💬 Ask me about **Web Dev, APIs, Databases, DevOps & Clean Architecture**
@@ -61,9 +61,11 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-shaikh-a87496240)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikhanis2004@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/an.iss_19)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.link) -->
 
 ---
 
@@ -74,4 +76,4 @@
 ---
 
 <!-- Optional: Footer or Credits -->
-<!-- Thanks for visiting my profile! 😄 -->
+ Thanks for visiting my profile! 😄 
