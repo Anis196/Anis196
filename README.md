@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Views](https://komarev.com/ghpvc/?username=anis196)
 <!--
 **Anis196/Anis196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
