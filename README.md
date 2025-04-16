@@ -1,5 +1,3 @@
-## Hi there 👋
-![GitHub Views](https://komarev.com/ghpvc/?username=anis196)
 <!-- GitHub Profile README for Anis196 -->
 
 <h1 align="center">Hi there 👋, I'm Anis</h1>
