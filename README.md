@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### Leetcode Stats
+### Leetcode Progress
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/daddyscouch?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
 </div>
