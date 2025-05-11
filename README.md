@@ -14,12 +14,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently in Third year B.Tech Computer Engineering. Pursuing from JSPM's Rajarshi Shahu College of Engineering, Pune.
+- 🎓 Currently in Final year B.Tech Computer Engineering. Pursuing from JSPM's Rajarshi Shahu College of Engineering, Pune.
 - 🔭 I’m currently working on **cutting-edge backend & full-stack projects**
 - 🌱 I’m constantly learning **new frameworks, system design, and cloud-native tools**
 - 💬 Ask me about **Web Dev, APIs, Databases, DevOps & Clean Architecture**
 - 👯 I’m looking to collaborate on **Open-source, ML Projects, and SaaS ideas**
-- ⚡ Fun fact: *I can write code faster than I can explain it 😅*
 
 ---
 
