@@ -47,7 +47,7 @@
 ---
 ### Leetcode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/daddyscouch?theme=chartreuse&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/daddyscouch?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ### 📊 GitHub Stats
