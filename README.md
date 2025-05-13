@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Anis196 -->
 
-<h1 align="center">Hi there 👋, I'm Anis</h1>
-<h3 align="center">A Passionate Software Developer from Pune, India</h3>
+<h1 align="center">I'm Anis, like fr</h1>
+<h3 align="center">Visionary Strategist of Multidimensional Backend Synergy and Cognitive API Integration for Enterprise-Grade Innovation Amplification. Catalyzes the convergence of GPU-optimized algorithmic paradigms and real-time data orchestration ecosystems to propel open-source community synergistics and DevOps operational excellence through the Omni-Dynamic CodeVantage Collective. Formerly Chief Architect of Relational Data Coherence at the Global Alliance for Computational Vision Scalability and Agile Architectural Proliferation. Senior Executive Lead of Transformative SaaS Enablement at NexusCore Enterprises.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&center=true&vCenter=true&width=435&lines=Technology+Enthusiast;Software+Developer;President+of+ACM+RSCOE;Teacher%2FMentor" alt="Typing SVG" /></a>
