@@ -1,10 +1,19 @@
 <!-- ========================= -->
 <!--  Anime-Themed README.md  -->
 <!-- ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Press+Start+2P&
+    pause=1200&
+    color=FF79C6&
+    center=true&
+    vCenter=true&
+    width=700&
+    size=22&
+    lines=Hello%2C+I%27m+Anis" />
+</p>
 
-<h1 align="center">
-  🌸 Hello, I'm <span style="color:#ff79c6;">Anis</span> 🌸
-</h1>
+
 
 <!-- Motion Typing Intro -->
 <p align="center">
