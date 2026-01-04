@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1200&color=6366F1&center=true&vCenter=true&width=900&size=18&lines=Fresher+with+a+seasoned+mind+of+a+ripe+Engineer;Backend+Developer+%7C+Java+%26+Spring+Boot;Generative+AI+&+%26+RAG+Systems;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1200&color=6366F1&center=true&vCenter=true&width=900&size=18&lines=Fresher+with+a+seasoned+mind+of+a+ripe+Engineer;Backend+Developer+%7C+Java+%26+Spring+Boot;Generative+AI+%26+RAG+Systems;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
