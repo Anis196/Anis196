@@ -7,14 +7,7 @@
 <!-- GPU Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,76B900&height=3&section=header" width="100%"/>
 
-```
-  ___   _   _  _____  _____   _____  _   _   ___   _____  _   __ _   _ 
- / _ \ | \ | ||_   _|/  ___| /  ___|| | | | / _ \ |_   _|| | / /| | | |
-/ /_\ \|  \| |  | |  \ `--.  \ `--. | |_| |/ /_\ \  | |  | |/ / | |_| |
-|  _  || . ` |  | |   `--. \  `--. \|  _  ||  _  |  | |  |    \ |  _  |
-| | | || |\  | _| |_ /\__/ / /\__/ /| | | || | | | _| |_ | |\  \| | | |
-\_| |_/\_| \_/ \___/ \____/  \____/ \_| |_/\_| |_/ \___/ \_| \_/\_| |_/
-```
+<img src="https://raw.githubusercontent.com/Anis196/Anis196/main/ascii_name.svg" width="100%" alt="ANIS SHAIKH"/>
 
 <h2>[ KERNEL LOADED ]</h2>
 
@@ -109,10 +102,6 @@ uptime     : Final year, fully operational
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anis196&theme=dark&hide_border=true&ring=76B900&fire=76B900&currStreakLabel=76B900&background=0d1117&sideLabels=76B900&dates=888888" width="60%" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis196&layout=compact&theme=dark&hide_border=true&title_color=76B900&bg_color=0d1117&text_color=ffffff" width="45%" />
-</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=76B900&height=2&section=header" width="100%"/>
 
