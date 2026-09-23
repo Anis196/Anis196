@@ -11,8 +11,6 @@
 
 <h2>[ KERNEL LOADED ]</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=76B900&center=true&vCenter=true&width=750&size=16&lines=Fresher+with+the+mind+of+a+seasoned+engineer;Backend+Developer+%7C+Java+%26+Spring+Boot;Generative+AI+%26+RAG+Systems+Builder;CUDA+%7C+LLMs+%7C+Scalable+Systems" />
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anis196&label=PROFILE+CYCLES&color=76B900&style=flat-square)
