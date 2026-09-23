@@ -9,8 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/Anis196/Anis196/main/ascii_name.svg" width="100%" alt="ANIS SHAIKH"/>
 
-<h2>[ KERNEL LOADED ]</h2>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anis196&label=PROFILE+CYCLES&color=76B900&style=flat-square)
